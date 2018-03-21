@@ -1,6 +1,6 @@
 % FDPSM - Android 0: Introduction
 % Patrick Sturm
-% 16.10.2017
+% 21.03.2018
 
 ## Information
 
@@ -44,6 +44,7 @@
     * ... while the practical part requires you to solve a problem
     * -> coding!
 * It's up to you to complete the programming task at home
+* Exercise will not be graded!
 
 ## Information - 3 - Outlook
 
